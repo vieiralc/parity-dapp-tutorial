@@ -1,0 +1,11 @@
+#container {
+    height: 100%;
+    display: grid;
+}
+
+#main {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 15px;
+
+    margin: auto;
+}

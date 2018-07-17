@@ -1,0 +1,9 @@
+{
+	"id": "votingdapp",
+	"name": "Votign Dapp",
+	"description": "A simple voting dapp",
+	"version": "0.1",
+	"author": "Lucas Vieira",
+	"iconUrl": "title.png",
+	"allowJsEval": true
+}
